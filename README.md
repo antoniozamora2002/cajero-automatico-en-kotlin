@@ -60,4 +60,4 @@ Seleccione una opción: 1
 ¡Las contribuciones son bienvenidas! Si tienes mejoras o nuevas funcionalidades, no dudes en hacer un **fork** y enviar un **pull request**. 🚀
 
 ---
-📌 **Desarrollado por [Antonio Zamora](https://github.com/tu-usuario)**
+📌 **Desarrollado por [Antonio Zamora](https://github.com/antoniozamora2002)**
